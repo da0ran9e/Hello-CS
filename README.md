@@ -1,0 +1,2 @@
+# Hello-CS
+#️⃣ learning C# 
